@@ -1,3 +1,3 @@
-module iAlexanderMoon.github.io
+module themes
 
 go 1.23.4

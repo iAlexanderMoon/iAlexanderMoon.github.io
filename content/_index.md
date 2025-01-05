@@ -1,6 +1,5 @@
 +++
 date = '2025-01-05T00:22:57Z'
-draft = false
 title = 'Home'
 +++
 

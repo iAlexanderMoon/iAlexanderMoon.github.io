@@ -13,3 +13,12 @@ This is a static website, blog and knowledge base for [ialexandermoon.github.io]
 ```sh
 hugo server
 ```
+
+## TODO
+* Hugo Paper Theme
+* Search: make it work
+* Blog: RSS Reed
+* Edit links
+* Share links 
+* Enable Commenting: Remark42 self host?
+* Page analytics: Plausioble self host?
